@@ -1,0 +1,60 @@
+Model: Kia
+Year: 2000
+Engine: 1200
+Price: 20000.0
+Tier company: Michelin
+Tier width: 
+Tier pressure: 155
+
+
+
+Model: Pontiac
+Year: 2000
+Engine: 2500
+Price: 25000.0
+Tier company: Kleber
+Tier width: 
+Tier pressure: 165
+
+
+
+Model: Renault
+Year: 2001
+Engine: 1390
+Price: 30000.0
+Tier company: Toyo
+Tier width: 
+Tier pressure: 165
+
+
+
+Model: Nisan
+Year: 2011
+Engine: 1800
+Price: 50000.0
+Tier company: GT
+Tier width: 
+Tier pressure: 165
+
+
+
+Model: Ford Focus
+Year: 2004
+Engine: 1600
+Price: 70000.0
+Tier company: Kleber
+Tier width: 
+Tier pressure: 155
+
+
+
+Model: VolksvagenGolf
+Year: 1999
+Engine: 1400
+Price: 100000.0
+Tier company: Toyo
+Tier width: 
+Tier pressure: 155
+
+
+

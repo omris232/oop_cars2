@@ -1,0 +1,6 @@
+Michelin@ 155 30
+Kleber@ 155 30
+Toyo@ 155 30
+GT@ 165 35
+Toyo@ 165 35
+Kleber@ 165 35
